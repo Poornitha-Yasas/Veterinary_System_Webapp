@@ -36,7 +36,6 @@ Note - The student's github account should be given in brackets e.g. (asiriRepos
 
 ## 🛠️ Installation
 
-```bash
 # Install Dependencies (Backend)
 cd Backend
 npm install
