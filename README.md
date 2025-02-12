@@ -24,11 +24,13 @@ Note - The student's github account should be given in brackets e.g. (asiriRepos
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/Poornitha-Yasas/Veterinary_System_Webapp/blob/main/Screenshot/Screenshot%20(9).png?raw=true" alt="project-screenshot" width="290" height="290/">
+<div>
+<img src="https://github.com/Poornitha-Yasas/Veterinary_System_Webapp/blob/main/Screenshot/Screenshot%20(9).png?raw=true" alt="project-screenshot" width="290" height="290" style="display: inline-block; margin-right: 10px;">
 
-<img src="https://github.com/Poornitha-Yasas/Veterinary_System_Webapp/blob/main/Screenshot/Screenshot%20(7).png?raw=true" alt="project-screenshot" width="290" height="290/">
+<img src="https://github.com/Poornitha-Yasas/Veterinary_System_Webapp/blob/main/Screenshot/Screenshot%20(7).png?raw=true" alt="project-screenshot" width="290" height="290" style="display: inline-block; margin-right: 10px;">
 
-<img src="https://github.com/Poornitha-Yasas/Veterinary_System_Webapp/blob/main/Screenshot/Screenshot%20(8).png?raw=true" alt="project-screenshot" width="290" height="290/">
+<img src="https://github.com/Poornitha-Yasas/Veterinary_System_Webapp/blob/main/Screenshot/Screenshot%20(8).png?raw=true" alt="project-screenshot" width="290" height="290" style="display: inline-block;">
+</div>
 
 <h2>🛠️ Installation Steps:</h2>
 
