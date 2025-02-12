@@ -32,24 +32,23 @@ Note - The student's github account should be given in brackets e.g. (asiriRepos
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. cd Backend</p>
+# Veterinary Hospital Management System
 
-<p>2. npm install</p>
+## 🛠️ Installation
 
-<p>3. cd ..</p>
+```bash
+# Install Dependencies (Backend)
+cd Backend
+npm install
 
-<p>4. cd frontend</p>
+# Install Dependencies (Frontend)
+cd frontend
+npm install
 
-<p>5. npm install</p>
+# Run Backend first
+cd Backend
+npm start
 
-<p>6. cd ..</p>
-
-<p>7. cd backend</p>
-
-<p>8. npm start</p>
-
-<p>9. cd ..</p>
-
-<p>10. cd frontend</p>
-
-<p>11. npm start</p>
+# Run Frontend in a different terminal
+cd frontend
+npm start
