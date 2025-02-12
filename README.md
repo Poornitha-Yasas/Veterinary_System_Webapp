@@ -1,4 +1,6 @@
-Please go under edit and edit this file as needed for your project
+<h1 align="center" id="title">Vet Hospital Management System</h1>
+
+<p id="description">Veterinary hospital management is a web-based application designed for making tasks convenient in handling problems related to pets all the specific problems will be solved with the integration of all the tasks that needs to be performed to take care of a pet. The main problem we have focused was providing a clear path for effective communication between the two parties and to maintain data efficiency get rid of data redundancy and keep records of the pets their breed owner of the pet and other essential information regarding the pet. We have taken all the above into consideration and we have introduced a system to provide comfort to the pet as well as the owner of the pet since it's important to keep the pet loss crisis down we have also come up with solutions to make sure the owner of the pets will have maximum efficiency in time saving having a cost-effective mechanism and to provide the client with urgent care with the best available service. We have concluded that this system is important in Saving lives of a dozen of pets so therefore we are ready to provide this web app to any veterinary institution who would seek our service in the near future.</p>
 
 # Project Name - Vet Hospital Management System
 # Batch - WD - Batch 02 - Malabe
@@ -11,26 +13,6 @@ Please go under edit and edit this file as needed for your project
 ### Member 7 - IT21066252 - Rathnayake R.T.P (IT21066252)
 ### Member 8 - IT21060908 - Karunarathna M.P.M.K (IT21060908)
 
-#### Brief Description of Project -
-Veterinary hospital management is a web-based application designed for making tasks 
-convenient in handling problems related to pets, all the specific problems will be solved 
-with the integration of all the tasks that needs to be performed to take care of a pet.
-
-The main problem we have focused was providing a clear path for effective 
-communication between the two parties and to maintain data efficiency, get rid of data 
-redundancy and keep records of the pets their breed, owner of the pet, and other essential 
-information regarding the pet.
-
-We have taken all the above into consideration and we have introduced a system to 
-provide comfort to the pet as well as the owner of the pet since it's important to keep the 
-pet loss crisis down, we have also come up with solutions to make sure the owner of the 
-pets will have maximum efficiency in time saving, having a cost-effective mechanism, 
-and to provide the client with urgent care with the best available service.
-
-We have concluded that this system is important in Saving lives of a dozen of pets so 
-therefore we are ready to provide this web app to any veterinary institution who would
-seek our service in the near future.
-
 #### Technologies used - 
  - Frontend : React.js
  - Backend : Node.js / Express.js
@@ -38,3 +20,36 @@ seek our service in the near future.
 
 Note - The student's github account should be given in brackets e.g. (asiriRepos), this ideally should be your student id 
 
+
+
+<h2>Project Screenshots:</h2>
+
+<img src="https://github.com/Poornitha-Yasas/Veterinary_System_Webapp/blob/main/Screenshot/Screenshot%20(9).png?raw=true" alt="project-screenshot" width="290" height="290/">
+
+<img src="https://github.com/Poornitha-Yasas/Veterinary_System_Webapp/blob/main/Screenshot/Screenshot%20(7).png?raw=true" alt="project-screenshot" width="290" height="290/">
+
+<img src="https://github.com/Poornitha-Yasas/Veterinary_System_Webapp/blob/main/Screenshot/Screenshot%20(8).png?raw=true" alt="project-screenshot" width="290" height="290/">
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. cd Backend</p>
+
+<p>2. npm install</p>
+
+<p>3. cd ..</p>
+
+<p>4. cd frontend</p>
+
+<p>5. npm install</p>
+
+<p>6. cd ..</p>
+
+<p>7. cd backend</p>
+
+<p>8. npm start</p>
+
+<p>9. cd ..</p>
+
+<p>10. cd frontend</p>
+
+<p>11. npm start</p>
