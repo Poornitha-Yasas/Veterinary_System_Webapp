@@ -24,7 +24,7 @@ Note - The student's github account should be given in brackets e.g. (asiriRepos
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/Poornitha-Yasas/Veterinary_System_Webapp/blob/main/Screenshot/Screenshot%20(9).png?raw=true" alt="project-screenshot" width="270" height="600/">
+<img src="https://github.com/Poornitha-Yasas/Veterinary_System_Webapp/blob/main/Screenshot/Screenshot%20(9).png?raw=true" alt="project-screenshot" width="600" height="270/">
 
 <img src="https://github.com/Poornitha-Yasas/Veterinary_System_Webapp/blob/main/Screenshot/Screenshot%20(7).png?raw=true" alt="project-screenshot" width="290" height="290/">
 
