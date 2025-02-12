@@ -32,10 +32,6 @@ Note - The student's github account should be given in brackets e.g. (asiriRepos
 
 <h2>🛠️ Installation Steps:</h2>
 
-# Veterinary Hospital Management System
-
-## 🛠️ Installation
-
 <p>1. Install Dependencies (Backend)</p>
 
 ```
