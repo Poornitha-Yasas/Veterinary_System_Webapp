@@ -36,25 +36,29 @@ Note - The student's github account should be given in brackets e.g. (asiriRepos
 
 ## 🛠️ Installation
 
-# Install Dependencies (Backend)
+<p>1. Install Dependencies (Backend)</p>
+
 ```
 cd Backend
 npm install
 ```
 
-# Install Dependencies (Frontend)
+<p>2. Install Dependencies (Frontend)</p>
+
 ```
 cd frontend
 npm install
 ```
 
-# Run Backend first
+<p>3. Run Backend first</p>
+
 ```
 cd Backend
 npm start
 ```
 
-# Run Frontend in a different terminal
+<p>4. Run Frontend in a different terminal</p>
+
 ```
 cd frontend
 npm start
